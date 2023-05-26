@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.failImg {
+  height: 80%;
+  width: 80%;
+}
+
+.main {
+  color: white;
+  background-color: #161625;
+}
+
+.logo {
+  height: 30px;
+  width: 30px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
+
+.logoCont {
+  display: flex;
+  flex-direction: row;
+}
+
+.p {
+  color: #2cc6c6;
+}
